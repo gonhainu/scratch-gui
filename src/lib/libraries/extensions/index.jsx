@@ -317,5 +317,19 @@ export default [
             />
         ),
         helpLink: 'https://scratch.mit.edu/vernier'
+    },
+    {
+        name: 'MaBeee Blocks',
+        extensionId: 'mabeee',
+        collaborator: 'Me',
+        // description: (
+        //     <FormattedMessage
+        //         defaultMessage="MaBeee."
+        //         description="MaBeee"
+        //         id="gui.extension.mabeee.description"
+        //     />
+        // ),
+        description: "MaBeee Blocks",
+        featured: true
     }
 ];
