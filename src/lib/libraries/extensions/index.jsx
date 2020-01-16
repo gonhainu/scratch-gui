@@ -319,9 +319,9 @@ export default [
         helpLink: 'https://scratch.mit.edu/vernier'
     },
     {
-        name: 'MaBeee Blocks',
+        name: 'MaBeee',
         extensionId: 'mabeee',
-        collaborator: 'Me',
+        collaborator: 'ENGINES, INC.',
         // description: (
         //     <FormattedMessage
         //         defaultMessage="MaBeee."
@@ -329,7 +329,7 @@ export default [
         //         id="gui.extension.mabeee.description"
         //     />
         // ),
-        description: "MaBeee Blocks",
+        description: "MaBeee拡張ブロック",
         featured: true
     }
 ];
